@@ -1,4 +1,4 @@
-# CODSOFT_TASK2 — Credit Card Fraud Detection 💳
+# CODSOFT_TASK2 — Credit Card Fraud Detection 
 
 This repository contains my solution for **Task 2: Credit Card Fraud Detection**,
 completed as part of my Machine Learning Internship at **CodSoft**.
